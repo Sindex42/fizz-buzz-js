@@ -1,3 +1,5 @@
+/* global describe, it, expect, fizzBuzz */
+
 describe('FizzBuzz', function () {
   describe('when given any other number', function () {
     it('should return 1 when given 1', function () {
